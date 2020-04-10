@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="FCM">
+  <DataContextMoniker Name="/FCMDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b37a3caf-49c7-4458-b53d-017989c330a9" absoluteBounds="4.125, 1.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/FCMDataContext/FCM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="62874f38-2159-45e2-9f5d-6d5838ecec9e" absoluteBounds="4.14, 1.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
