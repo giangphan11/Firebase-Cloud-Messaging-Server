@@ -65,6 +65,7 @@ namespace FirebaseCMServer.Controllers
         public FCM layTheoToken(string token)
         {
             FCM fCM = null;
+            //try that
             try
             {
                 FCMDataContext context = new FCMDataContext();
