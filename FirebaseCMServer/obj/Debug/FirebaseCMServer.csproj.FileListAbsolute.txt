@@ -64,3 +64,4 @@ D:\K2 - Nam3\C#\FirebaseCMServer\FirebaseCMServer\obj\Debug\FirebaseCMServer.csp
 D:\K2 - Nam3\C#\FirebaseCMServer\FirebaseCMServer\obj\Debug\FirebaseCMServer.csproj.CopyComplete
 D:\K2 - Nam3\C#\FirebaseCMServer\FirebaseCMServer\obj\Debug\FirebaseCMServer.dll
 D:\K2 - Nam3\C#\FirebaseCMServer\FirebaseCMServer\obj\Debug\FirebaseCMServer.pdb
+D:\K2 - Nam3\C#\FirebaseCMServer\FirebaseCMServer\obj\Debug\FirebaseCMServer.csprojAssemblyReference.cache

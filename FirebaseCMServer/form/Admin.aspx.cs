@@ -33,8 +33,8 @@ namespace FirebaseCMServer.form
 
             //định dạng JSON
             tRequest.ContentType = "application/json";
-            tRequest.Headers.Add(string.Format("Authorization: key={0}", "chúc nữa chép"));
-            tRequest.Headers.Add(string.Format("Sender: id={0}", "chúc nữa chép"));
+            tRequest.Headers.Add(string.Format("Authorization: key={0}", "AIzaSyA2tcsRXwmGui_s0_nyOROAZsj-thRo7Hw"));
+            tRequest.Headers.Add(string.Format("Sender: id={0}", "141480240003"));
 
             string[] arrRegid = dsFcm.Select(x => x.Token).ToArray();
             string RegArr = string.Empty;
