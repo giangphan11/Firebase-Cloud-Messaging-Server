@@ -33,6 +33,7 @@ namespace FirebaseCMServer.form
 
             //định dạng JSON
             tRequest.ContentType = "application/json";
+            //Update API KEY and SENDER ID
             tRequest.Headers.Add(string.Format("Authorization: key={0}", "AAAAIPDhI4M:APA91bGS9X69pxDT4NjW1_AN0afGNOJYQmfDm13wsdp45WpHbfO9Lcr3cZ9Z7o5Cq3VNPfK33kWpShB2ExU9bFYSlLPrMasep-57UtRnwOPEXawFqwD1hGrc2BWZWNuASP21pfvODisw"));
             tRequest.Headers.Add(string.Format("Sender: id={0}", "141480240003"));
 
